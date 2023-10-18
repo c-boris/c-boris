@@ -4,7 +4,7 @@ I'm Boris, a fullstack dev currently based in Lyon.
 
 ## A collection of things I know how to use
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,react,vite,bootstrap,heroku,latex,mysql,postgres,rails,regex,sass,sqlite,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,react,vite,bootstrap,nodejs,heroku,aws,mysql,postgres,rails,regex,sass,webpack,sqlite,tailwind,azure,babel,bash,vscode,figma,ps,wordpress)](https://skillicons.dev)
 
 ## Who doesn't love stats
 
