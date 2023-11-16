@@ -1,4 +1,4 @@
-# Howdy!
+# Welcome!
 
 I'm Boris, a fullstack dev currently based in Lyon (France).
 
