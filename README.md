@@ -1,6 +1,6 @@
 # Howdy!
 
-I'm Boris, a fullstack dev currently based in Lyon.
+I'm Boris, a fullstack dev currently based in Lyon (France).
 
 ## A collection of things I know how to use
 
