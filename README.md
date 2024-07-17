@@ -9,12 +9,5 @@ I'm a dev currently based in Lyon (France).
 ## Who doesn't love stats
 
 <p align="center">
-
-[![c-boris's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-boris&hide_rank=true&theme=transparent&hide_border=true)](https://github.com/c-boris/github-readme-stats)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=c-boris&theme=transparent&hide_border=true&mode=weekly&card_width=490&ring=EB5454&fire=EB5454&stroke=C1E38F&dates=C1E38F&currStreakNum=C1E38F&sideNums=C1E38F&sideLabels=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-boris&layout=donut&theme=transparent&hide_border=true&hide=Dockerfile)
 </p>
