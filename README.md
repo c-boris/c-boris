@@ -16,4 +16,6 @@ I'm a dev currently based in Lyon (France).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-boris&layout=donut&theme=transparent&hide_border=true&hide=Dockerfile)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-boris)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
