@@ -9,5 +9,5 @@ I'm a dev currently based in Lyon (France).
 ## Who doesn't love stats
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-boris&layout=donut&theme=transparent&hide_border=true&hide=Dockerfile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-boris&layout=donut&theme=transparent&hide_border=true&hide=Dockerfile)
 </p>
